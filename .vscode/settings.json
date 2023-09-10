@@ -3,8 +3,11 @@
   "workbench.preferredDarkColorTheme": "Default Dark+",
   "task.allowAutomaticTasks": "on",
   "editor.fontSize": 18,
+<<<<<<< HEAD
   "code-runner.runInTerminal": true,
   "editor.linkedEditing":true,
+=======
+>>>>>>> f87ea0f428a761e5477e958c043d64781f87d7b9
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
   }
